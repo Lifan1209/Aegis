@@ -3,5 +3,4 @@
 ## Rebuttal supplementary materials
 
 ### Attention mechanism heat map 
-
-![](C:\Users\woais\PycharmProjects\Aegis\heat_map.png)
+See 'heat_map.png'
